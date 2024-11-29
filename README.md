@@ -20,7 +20,6 @@
 ![display-iframe field plug-in](steps_of_assignment/19.jpg)
 ![display-iframe field plug-in](steps_of_assignment/20.jpg)
 ![display-iframe field plug-in](steps_of_assignment/21.jpg)
-![display-iframe field plug-in](steps_of_assignment/RDC.mov)
 
 # Remote Desktop Connection to Azure VM
 https://youtu.be/uNOTEcDtrzg
